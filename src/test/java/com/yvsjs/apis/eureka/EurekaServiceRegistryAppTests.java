@@ -1,13 +1,14 @@
-package com.javatodev.finance;
+package com.yvsjs.apis.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BankingCoreServiceRegistryApplicationTests {
+class EurekaServiceRegistryAppTests {
 
 	@Test
 	void contextLoads() {
+		//
 	}
 
 }
